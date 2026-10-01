@@ -21,7 +21,7 @@ justify-content: center;
 gap: 25px;
 }
 .menu-principal a {
-color: white;
+color: pink;
 text-decoration: none;
 font-weight: bold;
 padding: 8px 16px;
@@ -40,7 +40,7 @@ padding: 50px 20px;
 width: 180px;
 height: auto;
 display: block;
-margin: 0 auto 20px auto; /* Centra la imagen en el body */
+margin: 0 auto 50px auto; /* Centra la imagen en el body */
 }
 .contenido-inicio h1 {
 color: #1a365d;
@@ -57,7 +57,7 @@ margin: 30px auto;
 padding: 0 20px;
 }
 .titulo-seccion {
-text-align: center;
+text-align: left;
 color: #1a365d;
 margin-bottom: 25px;
 }
@@ -68,15 +68,15 @@ grid-template-columns: 1fr 2fr 1fr;
 gap: 30px;
 }
 .tarjeta {
-background-color: white;
+background-color: blue;
 border: 1px solid #ddd;
 border-radius: 8px;
 padding: 20px;
-text-align: center;
+text-align: left;
 }
 .tarjeta h3 {
-color: #2b6cb0;
-margin-bottom: 10px;
+color: #87CEEB;
+margin-bottom: 250px;
 }
 .tarjeta p {
 color: #666;
@@ -116,7 +116,7 @@ resize: vertical;
 .boton-tarjeta,
 .boton-enviar {
 display: inline-block;
-background-color: #2b6cb0;
+background-color: #FFFFFF;
 color: white;
 padding: 10px 18px;
 text-decoration: none;
@@ -132,8 +132,8 @@ background-color: #1a365d;
 }
 footer {
 text-align: center;
-padding: 20px;
-background-color: #e2e8f0;
+padding: 35px;
+background-color: #FFC0CB;
 margin-top: 40px;
 font-size: 0.9rem;
 
