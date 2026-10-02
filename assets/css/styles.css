@@ -68,7 +68,7 @@ grid-template-columns: 1fr 2fr 1fr;
 gap: 20px;
 }
 .tarjeta {
-background-color: #40E0D0;
+background-color: white;
 border: 1px solid #ddd;
 border-radius: 8px;
 padding: 20px;
