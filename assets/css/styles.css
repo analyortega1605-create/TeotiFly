@@ -10,7 +10,7 @@ background-color: #f0f4f8;
 color: #333;
 }
 /* --- BARRA DE NAVEGACIÓN SIMPLE (<nav>) --- */
-.menu-principal {
+.menu-principal{
 background-color: #1a365d;
 padding: 15px;
 }
@@ -21,7 +21,7 @@ justify-content: center;
 gap: 25px;
 }
 .menu-principal a {
-color: pink;
+color: white;
 text-decoration: none;
 font-weight: bold;
 padding: 8px 16px;
@@ -43,7 +43,7 @@ display: block;
 margin: 0 auto 50px auto; /* Centra la imagen en el body */
 }
 .contenido-inicio h1 {
-color: #87CEEB;
+color: #1a365d;
 margin-bottom: 10px;
 }
 .contenido-inicio p {
@@ -57,25 +57,25 @@ margin: 30px auto;
 padding: 0 20px;
 }
 .titulo-seccion {
-text-align: left;
+text-align: center;
 color: #1a365d;
 margin-bottom: 25px;
 }
 .rejilla-paquetes {
-display: grid;
+display: pink;
 /* Genera columnas automáticas según el tamaño de la pantalla */
 grid-template-columns: 1fr 2fr 1fr;
-gap: 30px;
+gap: 20px;
 }
 .tarjeta {
-background-color: blue;
+background-color: #40E0D0;
 border: 1px solid #ddd;
 border-radius: 8px;
 padding: 20px;
-text-align: left;
+text-align: center;
 }
 .tarjeta h3 {
-color: #87CEEB;
+color: #00ff00;
 margin-bottom: 250px;
 }
 .tarjeta p {
